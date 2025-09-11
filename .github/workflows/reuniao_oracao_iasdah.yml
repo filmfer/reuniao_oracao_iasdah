@@ -1,4 +1,4 @@
-name: Publicar Meditação Diária no Telegram
+name: Publicar Anuncio Reunião de Oração no Telegram
 
 on:
   schedule:
@@ -44,4 +44,4 @@ jobs:
           WHATSAPP_PHONE_NUMBER_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
           WHATSAPP_GROUP_ID: ${{ secrets.WHATSAPP_GROUP_ID }}
 
-        run: python anunciar_reuniao.py
+        run: python reuniao_oracao_iasdah.py
