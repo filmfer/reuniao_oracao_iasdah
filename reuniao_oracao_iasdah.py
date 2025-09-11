@@ -10,7 +10,7 @@ TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 
 # O caminho para a imagem que deseja enviar
-IMAGE_FILE_PATH = "Reunião Oração.jpg"
+IMAGE_FILE_PATH = "r_oracao_iasdah.jpg"
 
 # A mensagem de texto que será enviada após a imagem
 MESSAGE_TEXT = """*-----------------------------*
