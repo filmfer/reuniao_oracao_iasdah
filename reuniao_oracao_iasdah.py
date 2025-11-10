@@ -26,7 +26,9 @@ Estão todos convidados para estarem presentes na reunião de oração de *hoje 
 *Acesso por Zoom:*
 https://us02web.zoom.us/j/480270323
 *ID da reunião:* 480 270 323
-E também *por telefone:* +351 308 804 188"""
+*-----------------------------*
+*|   Até já.  |*
+*-----------------------------*"""
 
 
 def send_telegram_photo(bot_token, chat_id, image_path):
